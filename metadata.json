@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Spec Generator",
+  "description": "An interactive tool to generate detailed software project specifications and plans using AI. Input your project details, and let Gemini craft a professional plan including tech stack, folder structure, design patterns, and more.",
+  "requestFramePermissions": []
+}

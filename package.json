@@ -1,0 +1,27 @@
+{
+  "name": "ai-project-spec-generator",
+  "version": "1.0.0",
+  "description": "An interactive tool to generate detailed software project specifications and plans using AI for modern PHP applications.",
+  "scripts": {
+    "dev": "echo 'This project uses CDN imports. Serve index.html with a local web server.' && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "react",
+    "tailwindcss",
+    "php",
+    "generator",
+    "psr"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.26.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
